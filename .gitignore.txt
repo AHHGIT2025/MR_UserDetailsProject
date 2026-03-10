@@ -1,0 +1,39 @@
+
+# Visual Studio build folders
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+
+# VS cache/settings
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Packages
+packages/
+*.nupkg
+*.snupkg
+
+# Debug/Release outputs
+Debug/
+Release/
+x64/
+x86/
+[Aa][Rr][Mm]*/
+[Aa][Rr][Mm]64/
+
+# Others
+*.cache
+*.log
+*.dat
+*.db
+*.opendb
+
+# Rider/VSCode (optional)
+.idea/
+.vscode/
+
+# User-specific
+*.userprefs

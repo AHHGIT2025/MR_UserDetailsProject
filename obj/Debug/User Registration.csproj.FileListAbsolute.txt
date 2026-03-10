@@ -1,0 +1,13 @@
+C:\Users\Hattab-IT\source\repos\User Registration\obj\Debug\User Registration.csproj.AssemblyReference.cache
+C:\Users\Hattab-IT\source\repos\User Registration\obj\Debug\User_Registration.Form1.resources
+C:\Users\Hattab-IT\source\repos\User Registration\obj\Debug\User_Registration.Properties.Resources.resources
+C:\Users\Hattab-IT\source\repos\User Registration\obj\Debug\User Registration.csproj.GenerateResource.cache
+C:\Users\Hattab-IT\source\repos\User Registration\obj\Debug\User Registration.csproj.CoreCompileInputs.cache
+C:\Users\Hattab-IT\source\repos\User Registration\bin\Debug\User Registration.exe.config
+C:\Users\Hattab-IT\source\repos\User Registration\bin\Debug\User Registration.exe
+C:\Users\Hattab-IT\source\repos\User Registration\bin\Debug\User Registration.pdb
+C:\Users\Hattab-IT\source\repos\User Registration\obj\Debug\User Registration.exe
+C:\Users\Hattab-IT\source\repos\User Registration\obj\Debug\User Registration.pdb
+C:\Users\Hattab-IT\source\repos\User Registration\obj\Debug\User_Registration.Registry.resources
+C:\Users\Hattab-IT\source\repos\User Registration\obj\Debug\User_Registration.ViewRegister.resources
+C:\Users\Hattab-IT\source\repos\User Registration\obj\Debug\User_Registration.DashBoard.resources
